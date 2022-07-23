@@ -1,0 +1,31 @@
+button{
+    background-color: #24e8e8;
+    padding: 4px 20px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    }
+    span{
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+    }
+    .rapper{        
+    border: 2px solid black;
+    text-align: center;
+    margin: 0 30%;
+    margin-top: 5%;
+    border-radius: 5px;
+    font-family: sans-serif;
+    }
+    p#demo2{
+    background-color: #faf992;
+    border: 0px solid #e0dd0d;
+    margin: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    }
+    button:hover {
+    background-color: #356bf3;
+    box-shadow: 0 0 5px #111;
+    cursor: pointer;
+    }
